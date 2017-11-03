@@ -7,7 +7,7 @@
 #' @param filename A file containing a rectangular dataset
 #' @return A tibble
 #' @author Walter Muruet
-
+# Hello World
 strktimehub<-function(filename)
 {
   #### General warnings ####
